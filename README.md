@@ -30,5 +30,6 @@
 <p align="center">- Participate in hackathons &#127942 to better develop myself and meet new developers, while learning from my mistakes.</p>
 <h6 align="center">CONTACT ME</h6>
 <p align="center">Whatsapp: +243 991 863 274</p>
-<p align="center">LinkedIn: <a href="linkedin.com/in/betsaleeldjuma">linkedin.com/in/betsaleeldjuma</a></p>
+<p align="center">LinkedIn: <a href="linkedin.com/in/betsaleeldjuma" target="_blank">Betsaleel DJUMA</a></p>
+<p align="center">Telegram: <a href="https://t.me/betsaleeldjuma" target="_blank">Betsaleel DJUMA</a></p>
 <p align="center">Phone: +243 991 863 274</p>
