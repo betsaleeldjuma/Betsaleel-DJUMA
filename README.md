@@ -13,9 +13,11 @@
     For now
   </p>
 </div>
-<p>
-  <h2 align="center">PASSIONS/ACTIVITIES/GOALS</h2>
-  <h3 align="center">PASSIONS</h3>
-  <p align="center">- I enjoy coding for a long time despite the errors I may encounter during a project. I enjoy the moment.</p>
-  <p align="center">- </p>
-</p>
+<h2 align="center">PASSIONS/ACTIVITIES/GOALS</h2>
+<h3 align="center">PASSIONS</h3>
+<p align="center">- I enjoy coding for a long time despite the errors I may encounter during a project. I enjoy the moment.</p>
+<p align="center">- I enjoy playing video games. Besides coding, games help me relieve the stress I experience while coding.</p>
+<p align="center">- I also love dancing. For me, it's something that allows us to clear our minds and immerse ourselves in another world.</p>
+<p align="center">- While coding, I really like to hear nature sounds or even relaxing sounds or concentration sounds. It helps me focus better on what I do most when coding.</p>
+<h4 align="center">ACTIVITIES</h4>
+<p align="center"></p>
