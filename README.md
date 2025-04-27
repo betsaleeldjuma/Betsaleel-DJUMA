@@ -26,4 +26,11 @@
 <p align="center">- I am learning to solve problems with feetcode to improve my problem solving skills.</p>
 <p align="center">- I am also a 50 wpm typist on any type of keyboard.</p>
 <h5 align="center">GOALS</h5>
-<p align="center">- I have to learn as many programming languages ​​as possible</p>
+<p align="center">- I have to learn as many programming languages ​​as possible.</p>
+<p align="center">- Reach a pro level in dev to solve any problem without difficulty.</p>
+<p align="center">- Succeed in creating a game worthy of the current generation.</p>
+<p align="center">- Participate in hackathons to better develop myself and meet new developers, while learning from my mistakes.</p>
+<h6 align="center">Contact me</h6>
+<p align="center">Whatsapp: +243 991 863 274</p>
+<p align="center">LinkedIn: </p>
+<p align="center">Phone: +243 991 863 274</p>
