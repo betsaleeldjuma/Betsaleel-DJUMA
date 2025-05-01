@@ -17,6 +17,8 @@
 <p align="center">- I enjoy playing video games. <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ae.png?v8" width="20" height="20"/> Besides coding, games help me relieve the stress I experience while coding.</p>
 <p align="center">- I also love dancing &#128378. For me, it's something that allows us to clear our minds and immerse ourselves in another world &#127757.</p>
 <p align="center">- While coding, I really like to hear nature sounds or even relaxing sounds or concentration sounds &#127911. It helps me focus better on what I do most when coding.</p>
+<p align="center">- I like to play basketball &#127936 in my free time. To improve my skills and clear my mind.</p>
+<p align="center">- I like to follow manga. It allows me to strengthen my knowledge and learn more.</p>
 <h4 align="center">ACTIVITIES</h4>
 <p align="center">- I continue to learn new things in coding. New languages, personalizing my experiences.&#129504;&#8205;&#128187</p>
 <p align="center">- I play games for a few hours to experience the taste of defeat but also the taste of success.<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ae.png?v8" width="20" height="20"/></p>
